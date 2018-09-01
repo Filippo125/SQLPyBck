@@ -1,4 +1,4 @@
-# Project Title
+# Simple SQL backup with python
 
 A simple application to backup database
 
