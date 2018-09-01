@@ -1,0 +1,7 @@
+database:
+ user: user
+ password: pass
+ host: host
+ port: 123
+exclude_databases:
+ - test
